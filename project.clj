@@ -1,4 +1,4 @@
-(defproject davber/lein-template.shadowy "0.1.1"
+(defproject org.clojars.davber/lein-template.shadowy "0.1.1"
   :description "Leiningen template for React ClojureScript projects"
   :url "http://www.davber.com"
   :license {:name "Unlicense License"
