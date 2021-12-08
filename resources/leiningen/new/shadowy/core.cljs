@@ -1,6 +1,7 @@
 (ns {{ns}}.web.core
   "This is the entry point of the React app"
   (:require
+    [cljs.spec.alpha :as s]
     [taoensso.timbre :as timbre]
     [reagent.dom :as reagent]
     [re-frame.core :as rf]
