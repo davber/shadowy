@@ -33,4 +33,6 @@
                   ["package.json" (render "package.json" data)]
                   ["project.clj" (render "project.clj" data)]
                   ["src/{{sanitized}}/server.clj" (render "server.clj" data)]
+                  ["src/{{sanitized}}/web/core.cljs" (render "core.cljs" data)]
+                  ["src/{{sanitized}}/web/views.cljs" (render "views.cljs" data)]
                   ["resources/public/index.html" (render "index.html" data)])))

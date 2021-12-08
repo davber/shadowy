@@ -4,7 +4,7 @@
             :license {:name "Whatever-you-want"
                       :url "Link to one of those 'free' licenses, or a commercial one"}
             :sources ["src"]
-            :main "{{sanitized}}.server"
+            :main "{{ns}}.server"
             :dependencies [[org.clojure/clojure "1.10.3"]
                            [org.clojure/tools.cli "1.0.206"]
                            [org.clojure/core.incubator "0.1.4"]
