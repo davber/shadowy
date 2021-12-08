@@ -1,4 +1,4 @@
-(defproject davber/lein-template.shadowy "0.1.0-SNAPSHOT"
+(defproject davber/lein-template.shadowy "0.1.1"
   :description "Creates a new React ClojureScript project"
   :url "http://www.davber.com"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
